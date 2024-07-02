@@ -15,8 +15,6 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleksandardzudzevic&" alt="aleksandardzudzevic" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleksandardzudzevic&show_icons=true&locale=en&layout=compact" alt="aleksandardzudzevic" />
-</p>
 
 <br>
 
