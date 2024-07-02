@@ -13,6 +13,11 @@
 <h3 align="left">🤝 Always open to collaboration and project ideas so please reach out! </h3>
 
 <br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleksandardzudzevic&" alt="aleksandardzudzevic" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleksandardzudzevic&show_icons=true&locale=en&layout=compact" alt="aleksandardzudzevic" />
+</p>
+
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -26,9 +31,4 @@
 <a href="https://www.leetcode.com/aleksandar_dzudzevic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aleksandar_dzudzevic" height="30" width="40" /></a>
 <br>
 <br>
-
-</p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleksandardzudzevic&show_icons=true&locale=en&layout=compact" alt="aleksandardzudzevic" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aleksandardzudzevic&" alt="aleksandardzudzevic" /></p>
 
