@@ -8,7 +8,7 @@
 <h3 align="center">I am from Serbia 🇷🇸 but I spent my last 2 years of high school living and studying in Japan 🇯🇵 </h3>
 <br>
 <br>
-<h3 align="left">🌱 I’m currently learning about Neural Networks and connection between ML and our Brain </h3>
+<h3 align="left">🌱 I’m currently learning about Neural Networks and the connection between ML and human brain </h3>
 <h3 align="left">👨‍💻 I’m also trying to improve my web and mobile developing skills </h3>
 <h3 align="left">🤝 Always open to collaboration and project ideas so please reach out! </h3>
 
