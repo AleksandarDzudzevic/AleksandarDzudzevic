@@ -1,5 +1,5 @@
 ![MasterHead](https://i.pinimg.com/originals/54/f8/13/54f81331a9da88c623b96363fb0a4da1.gif)
-<h1 align="center">Hi I'm Aleksandar</h1>
+<h1 align="center"> I'm Aleksandar</h1>
 <br>
 
 <h2 align="center">I am Current Computer Science student at Cornell University</h3>
@@ -7,12 +7,7 @@
 
 <h3 align="center">I am from Serbia 🇷🇸 but I spent my last 2 years of high school living and studying in Japan 🇯🇵 </h3>
 <br>
-<br>
-<h3 align="left">🌱 I’m currently learning about NLP and Rust programming language </h3>
-<h3 align="left">👨‍💻 I’m also trying to improve my web and mobile developing skills </h3>
-<h3 align="left">🤝 Always open to collaboration and project ideas so please reach out! </h3>
 
-<br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aleksandardzudzevic&" alt="aleksandardzudzevic" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleksandardzudzevic&show_icons=true&locale=en&layout=compact" alt="aleksandardzudzevic" /></p>
