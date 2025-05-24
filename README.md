@@ -1,5 +1,3 @@
-![MasterHead](https://i.pinimg.com/originals/54/f8/13/54f81331a9da88c623b96363fb0a4da1.gif)
-<h1 align="center"> I'm Aleksandar</h1>
 <br>
 
 <h2 align="center">I am Current Computer Science student at Cornell University</h3>
