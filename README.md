@@ -6,11 +6,6 @@
 <h3 align="center">I am from Serbia 🇷🇸 but I spent my last 2 years of high school living and studying in Japan 🇯🇵</h3>
 <br>
 
-<h3 align="center">Languages and Tools I Use:</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleksandardzudzevic&show_icons=true&locale=en&layout=compact" alt="aleksandardzudzevic" />
-</div>
-<br><br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
